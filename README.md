@@ -12,7 +12,7 @@ To use the generator, follow these steps:
 6. Your Team Profile will generate in the ``/dist`` folder
 
 An example of the steps can be shown here
-<img src="./terminal-steps.gif"/>
+<img src="./media/terminal-steps.gif"/>
 
 ## 🏁 Challenge Criteria
 ```md
@@ -36,7 +36,7 @@ THEN I exit the application, and the HTML is generated
 ```
 ## 🎨 Preview
 Here's an example of the whole process:
-<img src="./teamprofilegenerator-preview.gif"/>
+<img src="./media/teamprofilegenerator-preview.gif"/>
 
 Here's an example of a generated profile page:
-<img src="./webpage-example.gif"/>
+<img src="./media/webpage-example.gif"/>
