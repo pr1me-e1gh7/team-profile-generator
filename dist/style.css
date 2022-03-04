@@ -1,0 +1,17 @@
+body {
+    background-image: url(https://data.whicdn.com/images/321390077/original.gif);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    font-family: 'Press Start 2P', cursive;
+}
+.card {
+    height: 300px;
+    width: 400px !important;
+}
+.icon {
+    font-size: 14px;
+}
+.card {
+    box-shadow: 6px 6px 12px #fdff718e;
+}
