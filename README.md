@@ -3,7 +3,7 @@ Simplify your project's team roster with this profile generator
 ## 👨‍💻 Mission
 Use Node.js to help user's quickly create a representation of a project's roster based on entered information.
 ## 💻 User Experience
-To use the generator, follow these steps:
+A full walkthrough is shown in the preview section of this readme. To use the generator, follow these steps:
 1. Fork this repo, download it to your PC
 2. Open the folder directory in your terminal
 3. Run ``npm install``
@@ -11,7 +11,6 @@ To use the generator, follow these steps:
 5. Answer the questions
 6. Your Team Profile will generate in the ``/dist`` folder
 
-An example of the steps can be shown here
 <img src="./media/terminal-steps.gif"/>
 
 ## 🏁 Challenge Criteria
@@ -35,7 +34,7 @@ WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
 ```
 ## 🎨 Preview
-Here's an example of the whole process:
+Full walkthrough:
 <img src="./media/teamprofilegenerator-preview.gif"/>
 
 Here's an example of a generated profile page:
