@@ -34,8 +34,8 @@ WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
 ```
 ## 🎨 Preview
-Full walkthrough:
-https://user-images.githubusercontent.com/92904832/156897716-85c03142-99a8-4682-b2fc-0cf64dc5dd2d.mp4
-
 Here's an example of a generated profile page:
 <img src="./media/webpage-example.gif"/>
+
+Full walkthrough:
+https://user-images.githubusercontent.com/92904832/156897716-85c03142-99a8-4682-b2fc-0cf64dc5dd2d.mp4
